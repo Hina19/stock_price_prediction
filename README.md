@@ -1,0 +1,2 @@
+# stock_price_prediction
+Building 3 different types of regression lines to predict stock prices using Python, then print out the prediction for the best performing one. This will be done by extracting latest stocks data from pandas web-data reader and Yahoo Finance. Then we will try to view the data through exploratory analysis such as correlation heatmap, matplotlib visualization, and prediction analysis using quadratic, linear, lasso, ridge models and also K Nearest Neighbor (KNN).
